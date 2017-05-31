@@ -1,0 +1,80 @@
+C:\Users\NTDLR\AppData\Local\Temporary Projects\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csprojResolveAssemblyReference.cache
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Documents\Visual Studio 2013\Projects\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csprojResolveAssemblyReference.cache
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csprojResolveAssemblyReference.cache
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csprojResolveAssemblyReference.cache
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+D:\Sa C particije\DESKTOP\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+E:\Za programiranje svasta\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+E:\Za programiranje svasta\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+E:\Za programiranje svasta\Projekti\Arduino projekti\Provereni\G U I\FotootpornikVS\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.csprojResolveAssemblyReference.cache
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+C:\Users\NTDLR\Desktop\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\chartUpdater.dll
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\chartUpdater.pdb
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\C#\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.csprojResolveAssemblyReference.cache
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+C:\Users\NTDLR\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe.config
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.exe
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.pdb
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Form1.resources
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.Properties.Resources.resources
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\obj\Debug\FotootpornikVS.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.exe
+C:\Users\Nikola\Desktop\C#\PROJEKTI\Arduino program za konekciju sa javom ili c#\FotootpornikVS\bin\Debug\FotootpornikVS.pdb
